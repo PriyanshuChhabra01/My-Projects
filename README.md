@@ -5,7 +5,7 @@ This project is a comprehensive SQL-based data analysis of a fictional Music Sto
 
 The analysis is performed using SQL queries written against a provided relational database schema.
 
-<--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 🔑 Key Objectives
 The analysis focuses on answering critical business questions across three levels of complexity:
