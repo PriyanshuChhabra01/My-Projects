@@ -21,7 +21,7 @@ Best Sales City: Identifying the city with the highest total sales revenue for p
 
 Best Customer: Identifying the customer who has spent the most money.
 
-<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 2. Moderate Questions (Targeted Marketing & Inventory)
 Rock Music Listeners: Retrieving customer details (email, name) for all Rock Music enthusiasts to run a targeted marketing campaign.
